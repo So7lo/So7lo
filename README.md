@@ -6,10 +6,10 @@
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=So7lo&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonynguyenit18&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=So7lo&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
 </div>
 
 <h3>Happy Codding <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
 <h3>Happy Writing <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
 
-![Medium Cards](https://github-readme-social-article.vercel.app/medium/@tonynguyenit)
+
