@@ -8,8 +8,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=So7lo&show_icons=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
 
 </div>
-
+<div align="center">
 <h3>Happy Codding <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
 <h3>Happy Pentesting <img width="30" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h3>
-
+</div>
 
